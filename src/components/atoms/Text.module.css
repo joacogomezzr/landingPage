@@ -1,0 +1,17 @@
+.pg_text {
+    width: 100%;
+    padding: 40px;
+    border-radius: 10px;
+    border: 2px solid gray;
+    background-color:#0d839b;
+
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    font-size: 35px; 
+
+    color: white;
+}
